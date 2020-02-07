@@ -5,7 +5,7 @@ sanic==0.6.0
 'cape.client'==0.2.0
 
 #Internal libraries
-git+https://github.com/bloomsburyai/cape-api-helpers
+git+https://github.com/edwardmjackson/cape-api-helpers
 
 
 
